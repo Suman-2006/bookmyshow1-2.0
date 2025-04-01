@@ -14,7 +14,7 @@ const Movies = () => {
       trailerUrl: "https://youtu.be/Way9Dexny3w?si=lQCCilSJgnHr-c6w",
     },
     {
-      img: "https://pics.filmaffinity.com/a_different_man-726904726-large.jpg",
+      img: "https://th.bing.com/th/id/OIP.n3jpL8GOWStD1JSKUTCkBwHaEK?w=290&h=180&c=7&r=0&o=5&dpr=1.5&pid=1.7",
       name: "A Different Man",
       genre: "Sci-Fi, Drama",
       releaseDate: "2024-11-07",
